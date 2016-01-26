@@ -1,0 +1,28 @@
+{
+  "name": "pomegranate-controllers",
+  "version": "0.0.0",
+  "description": "Adds Controller support to the Pomegranate framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pomegranate",
+    "Plugin",
+    "Controllers",
+    "MVC"
+  ],
+  "author": "Jim <monstertke@paperelectron.com> (http://paperelectron.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pomegranate/pomegranate-controllers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pomegranate/pomegranate-controllers/issues"
+  },
+  "homepage": "https://github.com/Pomegranate/pomegranate-controllers",
+  "dependencies": {
+    "lodash": "^4.0.1"
+  }
+}
