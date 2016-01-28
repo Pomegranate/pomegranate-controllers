@@ -22,7 +22,7 @@ exports.options = {
 exports.metadata = {
   name: 'Controllers',
   type: 'dynamic',
-  layer: 'controllers'
+  layer: 'controller'
 }
 
 exports.plugin = {
@@ -51,7 +51,7 @@ exports.plugin = {
         .value()
 
       if(controllers.length > 0) {
-        self.Logger.log('loaded ' + controllers.length + ' controllers.');
+        self.Logger.log('Loaded ' + controllers.length + ' controllers.');
       }
       loaded(null, controllers);
     });
