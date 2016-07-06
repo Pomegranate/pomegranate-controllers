@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-controllers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Adds Controller support to the Pomegranate framework.",
   "main": "index.js",
   "scripts": {
