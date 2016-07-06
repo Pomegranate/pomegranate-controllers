@@ -22,7 +22,7 @@ exports.options = {
 exports.metadata = {
   name: 'Controllers',
   type: 'dynamic',
-  layer: 'controller'
+  optional: ['SQL']
 }
 
 exports.plugin = {
